@@ -1,14 +1,13 @@
-## 👋 Olá, Eu sou o Willian Brandão ✌️
+## Olá, Eu sou o Willian Brandão ✌️
 
 [![IN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-brand%C3%A3o-796612194/)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/913504711716507692/913504711716507696)
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://contacts.google.com/person/c2526952530071729286?hl=pt-br)
 
-![Willian Brandão GitHub stats](https://github-readme-stats.vercel.app/api?username=willianbrac&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianbrac&layout=compact)](https://github.com/willianbrac/github-readme-stats)
-
-
+<div>
+    <img alt="Willian Brandão GitHub stats" src="https://github-readme-stats.vercel.app/api?username=willianbrac&show_icons=true&theme=tokyonight"/>
+</div>
+</br>
 Apaixonado por tecnologia |
 Trabalho com Back-end |
 Procurando um time
