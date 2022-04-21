@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Willian Brandão ✌️
-Seja bem vindo ao meu repositóri!
+Seja bem vindo ao meu repositório!
 
 A maioria dos meus projetos foram feitos em Javascript e Typescript, além de diversos frameworks Backend</br>
 Estou preparando mais APIs e Trabalhando com REACTJS para trazer aplicações ainda mais completas
