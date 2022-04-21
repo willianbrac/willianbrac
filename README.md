@@ -1,8 +1,10 @@
 ## Olá, Eu sou o Willian Brandão ✌️
 Seja bem vindo ao meu repositório!
 
-A maioria dos meus projetos foram feitos em Javascript e Typescript, além de diversos frameworks Backend</br>
-Estou preparando novas APIs e frontends com ReactJS e NextJS para trazer aplicações ainda mais completas
+A maioria dos meus projetos foram feitos em Javascript e Typescript, além de diversos frameworks Backend.</br>
+Estou preparando novas APIs e frontends com ReactJS e NextJS para trazer aplicações ainda mais completas.</br>
+Sou apaixonado por tecnologia, desenvolvo projetos pessoais como uma forma de adiquirir expreriência para</br>
+entrar no mercado de programação, mas não só isso, busco também trabalhos freelancer e suporte de TI.
 
 [![IN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-brand%C3%A3o-796612194/)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/913504711716507692/913504711716507696)
@@ -27,3 +29,5 @@ Procurando um time
     <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit" />
 </div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianbrac&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
