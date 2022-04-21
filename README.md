@@ -2,7 +2,7 @@
 Seja bem vindo ao meu repositório!
 
 A maioria dos meus projetos foram feitos em Javascript e Typescript, além de diversos frameworks Backend</br>
-Estou preparando mais APIs e Trabalhando com REACTJS para trazer aplicações ainda mais completas
+Estou preparando novas APIs e frontends com ReactJS e NextJS para trazer aplicações ainda mais completas
 
 [![IN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-brand%C3%A3o-796612194/)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/913504711716507692/913504711716507696)
