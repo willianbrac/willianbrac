@@ -4,9 +4,6 @@
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/913504711716507692/913504711716507696)
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://contacts.google.com/person/c2526952530071729286?hl=pt-br)
 
-<div>
-    <img alt="Willian Brandão GitHub stats" src="https://github-readme-stats.vercel.app/api?username=willianbrac&show_icons=true&theme=tokyonight"/>
-</div>
 </br>
 Apaixonado por tecnologia |
 Trabalho com Back-end |
@@ -25,14 +22,4 @@ Procurando um time
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit" />
-</div></br>
-
-
-
-### 💻 My Workspace Spec
-
-<div style="display: inline_block"></br>
-    <img align="center" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div></br>
